@@ -1,3 +1,3 @@
 void main() {
-  print("arr[1]");
+  print("arr[1] new");
 }
